@@ -1,1 +1,2 @@
-<meta http-equiv="refresh" content="3; URL=https://hackerone.com/indevi0us" />
+window.location.replace("http://www.w3schools.com");
+window.location.href = "http://www.w3schools.com";
