@@ -1,13 +1,13 @@
 swagger: '2.0'
 info:
   title: Example yaml.spec
-  description: test [BountyPls](javascript:prompt(document.cookie)) [a](javascript://www.google.com%0Aalert(1)) [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
-  paths:
+  description: This is an example text **HELLO FROM MARKDOWN** [BountyPls](javascript:prompt(document.cookie)) [a](javascript://www.google.com%0Aalert(1)) [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
+paths:
   /accounts:
     get:
       responses:
         '200':
-          description: Sample
+          description: No response was specified
       tags:
         - accounts
       operationId: findAccounts
